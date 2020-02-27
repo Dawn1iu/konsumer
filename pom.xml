@@ -4,7 +4,7 @@
 
     <groupId>com.github.dawn1iu</groupId>
     <artifactId>konsumer</artifactId>
-    <version>1.0.1-RELEASE</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>konsumer - Kafka Consumer Java SDK</name>
     <description>kafka消费者Java SDK</description>
