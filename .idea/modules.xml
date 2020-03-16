@@ -3,6 +3,26 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/konsumer.iml" filepath="$PROJECT_DIR$/.idea/konsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/spring-cloud-starter-stream-kafka/spring-cloud-starter-stream-kafka.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/spring-cloud-starter-stream-kafka/spring-cloud-starter-stream-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream/spring-cloud-stream.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream/spring-cloud-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka-core/spring-cloud-stream-binder-kafka-core.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka-core/spring-cloud-stream-binder-kafka-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/docs/spring-cloud-stream-binder-kafka-docs.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/docs/spring-cloud-stream-binder-kafka-docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka-parent.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka-streams/spring-cloud-stream-binder-kafka-streams.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka-streams/spring-cloud-stream-binder-kafka-streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream-binder-test/spring-cloud-stream-binder-test.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream-binder-test/spring-cloud-stream-binder-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream/docs/spring-cloud-stream-core-docs.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream/docs/spring-cloud-stream-core-docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream-integration-tests/spring-cloud-stream-integration-tests.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream-integration-tests/spring-cloud-stream-integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream-parent.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream-test-support/spring-cloud-stream-test-support.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream-test-support/spring-cloud-stream-test-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream-test-support-internal/spring-cloud-stream-test-support-internal.iml" filepath="$PROJECT_DIR$/../spring-cloud-stream/spring-cloud-stream-test-support-internal/spring-cloud-stream-test-support-internal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-kafka-dist.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-kafka-dist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-kafka/spring-kafka-dist.spring-kafka.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-kafka/spring-kafka-dist.spring-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-kafka-test/spring-kafka-dist.spring-kafka-test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-kafka-test/spring-kafka-dist.spring-kafka-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-kafka-test/spring-kafka-dist.spring-kafka-test.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-kafka-test/spring-kafka-dist.spring-kafka-test.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-kafka-test/spring-kafka-dist.spring-kafka-test.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-kafka-test/spring-kafka-dist.spring-kafka-test.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-kafka/spring-kafka-dist.spring-kafka.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-kafka/spring-kafka-dist.spring-kafka.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-kafka/spring-kafka-dist.spring-kafka.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-kafka/spring-kafka-dist.spring-kafka.test.iml" />
     </modules>
   </component>
 </project>
